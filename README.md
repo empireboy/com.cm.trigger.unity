@@ -1,4 +1,4 @@
-# CM Trigger V0.1.0
+# CM Trigger Unity V0.1.0
 
 CM Trigger is a Unity package for adding triggers to your scene. This package will add classes like TriggerEnter2D, TriggerEnter3D, TriggerExit3D etc...
 
@@ -21,7 +21,7 @@ This package is still in development. The current version of this package is not
 **4.** Copy-paste the link below and press **Add**.
 
 `
-https://github.com/empireboy/com.cm.trigger.git
+https://github.com/empireboy/com.cm.trigger.unity.git
 `
 
 ## Dependencies
