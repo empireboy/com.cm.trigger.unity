@@ -6,6 +6,10 @@ CM Trigger is a Unity package for adding triggers to your scene. This package wi
 
 This package is still in development. The current version of this package is not ready for production.
 
+## An example of a Trigger
+
+![alt text](https://i.imgur.com/2un3XbJ.png)
+
 ## How do I install this package in Unity?
 
 **1.** In Unity you can go to **Window/Package Manager**.
