@@ -26,4 +26,4 @@ https://github.com/empireboy/com.cm.trigger.git
 
 ## Dependencies
 
-* [com.cm.so](https://github.com/empireboy/com.cm.so)
+* [com.cm.designpatterns.unity](https://github.com/empireboy/com.cm.designpatterns.unity)
