@@ -1,0 +1,17 @@
+{
+    "name": "com.cm.trigger",
+    "displayName": "CM Trigger",
+    "version": "0.1.0",
+    "unity": "2019.3",
+    "author": "Casper Meloen",
+    "description": "CM Trigger is a Unity package for adding triggers to your scene. This package will add classes like TriggerEnter2D, TriggerEnter3D, TriggerExit3D etc...",
+    "dependencies": {
+        "com.cm.designpatterns": "https://github.com/empireboy/com.cm.designpatterns.git",
+        "com.cm.designpatterns.unity": "https://github.com/empireboy/com.cm.designpatterns.unity.git"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/empireboy/com.cm.trigger.git",
+        "revision": ""
+    }
+}
